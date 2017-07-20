@@ -1,0 +1,13 @@
+<apex:page standardController="Account" recordSetVar="accounts">
+    <apex:form >
+        <apex:pageBlock id="account_list">
+        	<apex:repeat value="{!accounts}" var="a">
+            	<li>
+                	<apex:outputLink value="{! URLFOR($Action.Account.View, a.Id) }">
+                    	{!a.Name}
+                    </apex:outputLink>
+                </li>
+            </apex:repeat>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

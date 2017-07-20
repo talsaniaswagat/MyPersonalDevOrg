@@ -1,0 +1,17 @@
+{
+    "projectName": "MyPersonalDevOrg",
+    "username": "talsaniaswagat@gmail.com",
+    "id": "dc0044d0-6d17-11e7-8db7-1166ab0d2fb0",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://talsaniaswagat-dev-ed.my.salesforce.com",
+    "workspace": "F:\\Swagat\\Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
