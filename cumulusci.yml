@@ -1,0 +1,6 @@
+project:
+    name: MyPersonalDevOrg
+    package:
+        name: Test
+        namespace: Test
+        api_version: 40.0

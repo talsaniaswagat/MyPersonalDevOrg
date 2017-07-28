@@ -8,6 +8,8 @@
     "instanceUrl": "https://talsaniaswagat-dev-ed.my.salesforce.com",
     "workspace": "F:\\Swagat\\Workspace",
     "subscription": [
+        "ActionLinkGroupTemplate",
+        "AnalyticSnapshot",
         "ApexClass",
         "ApexComponent",
         "ApexPage",
